@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"ere",
+				"eregi"
+			],
+			[
+				"thisaddre",
+				"thisAddress2"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"thisc",
+				"thisCompanyField"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"thisadd",
+				"thisAddress2"
+			],
+			[
+				"thisaddress",
+				"thisAddress1"
+			],
+			[
+				"Lname",
+				"thisLname"
+			],
+			[
+				"thi",
+				"thisLname"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"limi",
+				"limitQuery"
+			],
+			[
+				"order",
+				"orderByQuery"
+			],
+			[
+				"oer",
+				"sortOrder"
+			],
+			[
+				"sor",
+				"sortOrder"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"say_hel",
+				"say_hello3"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"say",
+				"say_hello2"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"MAX",
+				"MAX_WIDTH"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>\n<head>\n	<title>用户注册表单</title>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n	<link href=\"include/main.css\" rel=\"stylesheet\" type=\"text/css\">\n\n<?php echo $_SERVER['SCRIPT_NAME'].\"<br/>\";?>\n\n</head>\n<body>\n	<table width=\"100%\"  border=\"0\" cellspacing=\"6\" cellpadding=\"6\">\n	  <tr>\n	    <td>\n	    	<div align=\"right\" class=\"txt24bb_white\">User Registration</div>\n	    </td>\n	  </tr>\n	</table>\n\n	<div align=\"center\">\n		<form name=\"form1\" method=\"post\" action=\"/scripts/register.php\">\n			<!--4个隐藏域 -->\n\n			<div align=\"center\">\n		      <p>\n		          <span class=\"txt24b_black\">用户注册 </span><br>\n		      </p>\n		    </div>\n\n		    <div align=\"center\">\n		    	<table width=\"500\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"tbl_gray_wborder\">\n		    		<tr>\n		    			<td class=\"txt14b_red\">\n		    				<table width=\"426\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"txt12b_black\">\n		    					<tr>\n		    						<td width=\"15\"></td>\n				                    <td width=\"142\"></td>\n				                    <td width=\"220\"></td>\n				                    <td width=\"47\"></td>\n		    					</tr>\n		    					<tr>\n				                   <td colspan=\"4\" >&nbsp;</td>\n				                </tr>\n				                <tr>\n                    <td colspan=\"4\" align=\"center\"><?php echo $error; ?>\n                      <div align=\"left\"></div></td>\n                  </tr>\n		    				</table>\n		    			</td>\n		    		</tr>\n		    	</table>\n		    </div>\n		</form>\n	</div>\n</body>\n</html>",
+			"file": "customers/user_registration.php",
+			"file_size": 1410,
+			"file_write_time": 130272300571287775,
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Windows",
+				"name": "user_registration.php"
+			}
+		},
+		{
+			"file": "customers/register.php",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Windows",
+				"name": "registre.php"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/mysql_demo.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/update.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/list.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/search_form.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/search.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/mysql_demo.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/php-mysql.sublime-project",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/delete.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/confirm_delete.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/confirm_delete.php.dump",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/include/db_connection.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/confirm_delete.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/edit.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/update.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/update.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/edit.php.dump",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/insert_new.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/edit.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/list.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/list.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/customers/enter_new.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mysql/php-mysql.sublime-workspace",
+		"/C/Users/Administrator/Desktop/php study/PHP学习记录.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/search.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/search.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/insert_new.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/insert_new.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/enter_new.php.dump",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/helloWorld.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/customers/enter_new.php",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/connecting_to_data.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/samples.sql",
+		"/C/Users/Administrator/Desktop/php_mysql/7.mysql/connecting_to_data.php",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/phpMyAdmin/libraries/config.default.php",
+		"/C/Users/Administrator/Desktop/sql.txt",
+		"/C/Users/Administrator/Desktop/php_mysql/6.functions/defaultvalue.php",
+		"/C/Users/Administrator/Desktop/php_mysql/6.functions/globals.php",
+		"/C/Users/Administrator/Desktop/php_mysql/6.functions/returnvalues.php",
+		"/C/Users/Administrator/Desktop/php_mysql/6.functions/Usingfunctions.php",
+		"/C/Users/Administrator/Desktop/php_mysql/6.functions/functions.php",
+		"/C/Users/Administrator/Desktop/php_mysql/5.arrays/built-in_arrays.php",
+		"/C/Users/Administrator/Desktop/php_mysql/5.arrays/array_functions.php",
+		"/C/Users/Administrator/Desktop/php_mysql/5.arrays/foreachloops.php",
+		"/C/Users/Administrator/Desktop/php_mysql/5.arrays/multidimensional_array.php.dump",
+		"/C/Users/Administrator/Desktop/php_mysql/5.arrays/multidimensional_array.php",
+		"/C/Users/Administrator/Desktop/php_mysql/4.strings/find_and_replace.php",
+		"/C/Users/Administrator/Desktop/php_mysql/4.strings/cleaning_up_strings.php",
+		"/C/Users/Administrator/Desktop/php_mysql/4.strings/working_with_strings.php",
+		"/C/Users/Administrator/Desktop/php_mysql/3.conditions_loops/ifstatements.php",
+		"/C/Users/Administrator/Desktop/php_mysql/2.basics/constants.php",
+		"/C/Users/Administrator/Desktop/php_mysql/2.basics/typecasting.php",
+		"/C/Users/Administrator/Desktop/php_mysql/2.basics/booleans.php",
+		"/C/Users/Administrator/Desktop/php_mysql/2.basics/floats.php",
+		"/C/Users/Administrator/Desktop/php_mysql/2.basics/numbers.php",
+		"/D/Program Files (x86)/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/Desktop/php_mysql/1.intro/basic.php",
+		"/C/Users/Administrator/Desktop/php_mysql/1.intro/basic.html",
+		"/C/Users/Administrator/Desktop/php_mysql/1.intro/phpinfo.php",
+		"/C/Users/Administrator/Desktop/php_mysql/1.intro/comment.php",
+		"/C/Users/Administrator/Desktop/php_mysql/1.intro/hello.php",
+		"/C/Users/Administrator/Desktop/php study/helloWorld.php",
+		"/C/Users/Administrator/Desktop/PHP学习记录.php",
+		"/D/Program Files (x86)/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"B>",
+			"$PHP_SELF;",
+			"TD>",
+			"$startLimit",
+			"character",
+			"searchTerms",
+			"startLimit",
+			"nextStartLimit",
+			"$_SERVER['PHP_SELF']",
+			"$PHP_SELF",
+			"thisFnameField",
+			"MYSQL_NUMROWS",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"b>",
+			"$_SERVER['PHP_SELF'];",
+			"td>",
+			"searchTerm",
+			"$_SERVER['PHP_SELF']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "customers/user_registration.php",
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"auto_name": "user_registration.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 62.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "customers/register.php",
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "registre.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 370.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
